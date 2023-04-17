@@ -3,7 +3,7 @@
     <div
         class="bg-image text-center"
         style="
-        background-image: url('https://www.dropbox.com/s/cd4lvp7hqb94sye/IMG_4998.JPG?raw=true');
+        background-image: url('https://www.dropbox.com/s/wmqtbjo1mow1umf/IMG_9517.JPG?raw=true');
         height: 100vh;">
       <NamePlate />
       <SocialMediaReel />
