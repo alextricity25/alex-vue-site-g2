@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s,a as o}from"./index-7e008338.js";const c={},n={class:"bg-image",style:{"background-image":"url('https://mdbcdn.b-cdn.net/img/Photos/Others/images/76.webp')",height:"100vh"}},_=o("h1",null,"This is an about page",-1),a=[_];function i(r,d){return t(),s("div",n,a)}const l=e(c,[["render",i]]);export{l as default};
